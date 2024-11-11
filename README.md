@@ -1,8 +1,8 @@
-# Cedaruke
-Welcome to Cedaruke, a Mindustry Java mod about expanding the industries into a new star system. The mod aims to introduce more new campaigns, each with their own unique features, missions, and challenges.
+# Reautomation
+Welcome to Reautomation, a Mindustry Java mod about expanding the industries into a new star system. The mod aims to introduce more new campaigns, each with their own unique features, missions, and challenges.
 
 # Download
-To download the mod, I recommend you to use either the Mod Browser (not available yet) or [releases](https://github.com/Xeron590/Cetadustry/releases). However, if you want to play the development version, please go to [actions](https://github.com/Xeronaus/Cedaruke/actions).
+To download the mod, I recommend you to use either the Mod Browser (not available yet) or [releases](https://github.com/Xeron590/ReautomationMod/releases). However, if you want to play the development version, please go to [actions](https://github.com/Xeronaus/ReautomationMod/actions).
 
 # Contributors
 The mod is made by Xeronaus, the only developer (or contributor) of the mod. Here's my discord if you want to talk with me.
@@ -24,7 +24,7 @@ Cedaruke is licensed under [GNU GPL v3.0](https://github.com/Xeronaus/Cedaruke/b
 
 # Others
 
-[![Stars](https://img.shields.io/github/stars/Xeronaus/Cedaruke?color=F7D747&label=⭐️%20Please%20Star%20Cedaruke%21&style=for-the-badge)](https://github.com/Xeronaus/Cedaruke)
+[![Stars](https://img.shields.io/github/stars/Xeronaus/Cedaruke?color=F7D747&label=⭐️%20Please%20Star%20Cedaruke%21&style=for-the-badge)](https://github.com/Xeronaus/ReautomationMod)
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UC8guFwFQzJ5vzDnD2bsRs1w?color=ff5959&label=YouTube&logo=youtube&style=for-the-badge)](https://www.youtube.com/@Xeronaus)
 
 ~I want a cheeseburger and I will steal one from you.~
