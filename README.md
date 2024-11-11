@@ -24,7 +24,7 @@ Cedaruke is licensed under [GNU GPL v3.0](https://github.com/Xeronaus/Cedaruke/b
 
 # Others
 
-[![Stars](https://img.shields.io/github/stars/Xeronaus/Cedaruke?color=F7D747&label=⭐️%20Please%20Star%20Cedaruke%21&style=for-the-badge)](https://github.com/Xeronaus/ReautomationMod)
+[![Stars](https://img.shields.io/github/stars/Xeronaus/Cedaruke?color=F7D747&label=⭐️%20Please%20Star%20Reautomation%21&style=for-the-badge)](https://github.com/Xeronaus/ReautomationMod)
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UC8guFwFQzJ5vzDnD2bsRs1w?color=ff5959&label=YouTube&logo=youtube&style=for-the-badge)](https://www.youtube.com/@Xeronaus)
 
 ~I want a cheeseburger and I will steal one from you.~
