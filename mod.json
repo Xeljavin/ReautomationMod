@@ -1,12 +1,12 @@
 {
-  "displayName": "Cedaruke",
-  "name": "cedaruke",
+  "displayName": "Reautomation",
+  "name": "reautomation",
   "subtitle": "Still in development. Check the repositoy for details.",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "author": "Xeronaus",
-  "main": "cedaruke.Cedaruke",
-  "description": "Welcome to Cedaruke, a Mindustry mod about expanding the industries into the Arion system!",
+  "main": "reautomation.ReautomationMod",
+  "description": "Welcome to Reautomation, a Mindustry mod about expanding the industries into a new star system!",
   "minGameVersion": 146,
   "java": true,
-  "repo": "Xeronaus/Cedaruke"
+  "repo": "Xeronaus/ReautomationMod"
 }
