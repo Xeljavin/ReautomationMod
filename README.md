@@ -5,7 +5,7 @@ Welcome to Reautomation, a Mindustry Java mod about expanding the industries int
 To download the mod, I recommend you to use either the Mod Browser (not available yet) or [releases](https://github.com/Xeron590/ReautomationMod/releases). However, if you want to play the development version, please go to [actions](https://github.com/Xeronaus/ReautomationMod/actions).
 
 # Contributors
-The mod is made by Xeronaus, the only developer (or contributor) of the mod. Here's my discord if you want to talk with me.
+The mod is made by Xeronaus, the only developer (or contributor) of the mod. Here's my Discord if you want to talk with me.
 
 Discord: xeronaus_finezero
 
@@ -16,11 +16,11 @@ I will be developing one campaign at a time. This will make development much eas
 
 I will also continue to update the mod status and provide information on mod parts that are currently in development or finished. Right now, I'm working on the "actual" in-game contents.
 
-In the meantime, you can just wait and do something else. If you would like to contribute, please message me first. If you have feedbacks and/or reports, create an [issue](https://github.com/Xeronaus/Cedaruke/issues).
+In the meantime, you can just wait and do something else. If you would like to contribute, please message me first. If you have any feedback and/or reports, create an [issue](https://github.com/Xeronaus/ReautomationMod/issues).
 
 # License
 
-Cedaruke is licensed under [GNU GPL v3.0](https://github.com/Xeronaus/Cedaruke/blob/main/LICENSE)
+Reautomation is licensed under [GNU GPL v3.0](https://github.com/Xeronaus/Cedaruke/blob/main/LICENSE)
 
 # Others
 
