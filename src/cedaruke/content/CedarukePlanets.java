@@ -1,5 +1,6 @@
-// Add star: Arion
-// Add planets: Georathe, Crajuras, Miranthi, Khupark, Xerghis, Exolarure, Burgharin, Kyrapure, and Alkolaneth
+// Planned stars: Arion, Liyumi, Karaek, Solnata, Pharall, and Quvant
+
+// I could use some help here
 
 package cedaruke.content;
 
