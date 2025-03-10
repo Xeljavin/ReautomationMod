@@ -36,9 +36,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 <div align = center>
 
 # Screenshots
-<!-- Please insert Reautomation images here -->
 
 <br>
+<br>
+
+<!-- Please insert Reautomation images here -->
+
 <br>
 <br>
   
@@ -48,7 +51,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor i
 
 # License and Contribution
 
-Reautomation is licensed under [GNU GPL v3.0](https://github.com/Xeljavin/ReautomationMod/blob/main/LICENSE). <p id="con-anchor">See [Cat](mod.com).</p>
+Reautomation is licensed under [GNU GPL v3.0](https://github.com/Xeljavin/ReautomationMod/blob/main/LICENSE). <p id="con-anchor">See [this](https://github.com/Xeljavin/ReautomationMod/blob/main/LICENSE) to contribute.</p>
 
 </div>
 
