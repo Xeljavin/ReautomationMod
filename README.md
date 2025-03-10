@@ -25,6 +25,8 @@ ___
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
+[Click here to jump to the specific text](#custom-anchor)
+
 # Overview
 </div>
 
@@ -50,9 +52,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor i
 
 Reautomation is licensed under [GNU GPL v3.0](https://github.com/Xeljavin/ReautomationMod/blob/main/LICENSE).
 
-Also see <p id="#contribute-anchor">
-    <a href="https://github.com/Xeljavin/ReautomationMod/blob/main/CONTRIBUTING.md">this</a>
-</p>
+
+<p id="custom-anchor">This is the text you want to link to.</p>
 
 
 </div>
