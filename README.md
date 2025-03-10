@@ -1,3 +1,5 @@
+# DISCLAIMER
+
 # Reautomation
 Welcome to Reautomation, a Mindustry Java mod about expanding the industries into a new star system. The mod aims to introduce more new campaigns, each with their own unique features, missions, and challenges.
 
