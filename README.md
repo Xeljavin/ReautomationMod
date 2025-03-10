@@ -9,7 +9,7 @@ ___
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UC8guFwFQzJ5vzDnD2bsRs1w?color=ff5959&label=YouTube&logo=youtube&style=for-the-badge)](https://www.youtube.com/@Xeljavin)
 <!--[![Discord]()]()-->
 
-This Mindustry mod is still under development with barely any actual content. Do NOT expect it to be functional yet, let alone playable. Please check back later, or feel free to [contribute](https://github.com/Xeljavin/ReautomationMod/blob/main/CONTRIBUTING.md).
+This Mindustry mod is still under development with barely any actual content. Do NOT expect it to be functional yet, let alone playable. Please check back later, or feel free to [contribute](#contribute-anchor)
 ___
 
 <br>
@@ -48,13 +48,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor i
 
 # License and Contribution
 
-Reautomation is licensed under [GNU GPL v3.0](https://github.com/Xeljavin/ReautomationMod/blob/main/LICENSE). Also see [this](https://github.com/Xeljavin/ReautomationMod/blob/main/CONTRIBUTING.md) 
+Reautomation is licensed under [GNU GPL v3.0](https://github.com/Xeljavin/ReautomationMod/blob/main/LICENSE).
+
+Also see <p id="#contribute-anchor">
+    <a href="https://github.com/Xeljavin/ReautomationMod/blob/main/CONTRIBUTING.md">this</a>
+</p>
+
 
 </div>
-
-[Click here to jump to the special link](#custom-anchor)
-
-<p id="custom-anchor">
-    <a href="https://example.com">Go to Example Website</a>
-</p>
 
