@@ -51,8 +51,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor i
 
 # License and Contribution
 
-The Reautomation mod is licensed under [GNU GPL v3.0](https://github.com/Xeljavin/ReautomationMod/blob/main/LICENSE).
-
-<p id="con-anchor">Also see [this](https://github.com/Xeljavin/ReautomationMod/blob/main/CONTRIBUTING) to contribute.</p>
+The Reautomation mod is licensed under [GNU GPL v3.0](https://github.com/Xeljavin/ReautomationMod/blob/main/LICENSE). <p id="con-anchor">Also see [this](https://github.com/Xeljavin/ReautomationMod/blob/main/CONTRIBUTING) to contribute.</p>
 
 </div>
