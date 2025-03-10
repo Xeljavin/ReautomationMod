@@ -1,5 +1,5 @@
 <div align="center">
-  
+
 ___
 # DISCLAIMER
 
@@ -11,8 +11,37 @@ ___
 This Mindustry mod is still under development with barely any actual content. Do NOT expect it to be functional yet, let alone playable. Please check back later, or feel free to [contribute](https://github.com/Xeljavin/ReautomationMod/blob/main/CONTRIBUTING.md).
 ___
 
+<br>
+<br>
+
+<!-- Please insert Reautomation development image here -->
+
+<br>
+<br>
+
+# Reautomation
+<!-- Please insert Reautomation title image here -->
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+# Overview
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+- Thing 1
+- Thing 2
+- Thing...
+
+# Screenshots
+<!-- Please insert Reautomation images here -->
+
+# Languanges
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+- Languange 1
+- Languange 2
+- Languange...
+
 # License and Contribution
 
-Reautomation is licensed under [GNU GPL v3.0](https://github.com/Xeljavin/ReautomationMod/blob/main/LICENSE).
+Reautomation is licensed under [GNU GPL v3.0](https://github.com/Xeljavin/ReautomationMod/blob/main/LICENSE). 
 
 </div>
