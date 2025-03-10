@@ -7,6 +7,7 @@ ___
 [![Download](https://img.shields.io/github/v/release/Xeljavin/ReautomationMod?color=4F6ABA&include_prereleases&label=Latest%20version&logo=github&logoColor=white&style=for-the-badge)](https://github.com/Xeljavin/ReautomationMod/releases)
 ![Releases](https://img.shields.io/github/downloads/Xeljavin/ReautomationMod/total?color=ED5D3F&logo=Github&label=Downloads&include_prereleases&style=for-the-badge)
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UC8guFwFQzJ5vzDnD2bsRs1w?color=ff5959&label=YouTube&logo=youtube&style=for-the-badge)](https://www.youtube.com/@Xeljavin)
+<!--[![Discord]()]()-->
 
 This Mindustry mod is still under development with barely any actual content. Do NOT expect it to be functional yet, let alone playable. Please check back later, or feel free to [contribute](https://github.com/Xeljavin/ReautomationMod/blob/main/CONTRIBUTING.md).
 ___
@@ -32,18 +33,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 - Thing 2
 - Thing...
 
+<div align = center>
+
 # Screenshots
 <!-- Please insert Reautomation images here -->
-
-<div align = center>
   
-# Languanges
-</div>
+# Download
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-- Languange 1
-- Languange 2
-- Languange...
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 # License and Contribution
 
