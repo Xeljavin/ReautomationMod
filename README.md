@@ -47,9 +47,3 @@ To download the mod, I recommend you to use either the Mod Browser (not availabl
 # License and Contribution
 
 Reautomation is licensed under [GNU GPL v3.0](https://github.com/Xeljavin/ReautomationMod/blob/main/LICENSE). 
-
-his project's source codes *(files located under `src/**`)* and assets *(files located under `assets/**`)* are licensed under [GNU GPL v3](/LICENSE), unless explicitly stated otherwise *(usually on file headers)*. The copyright notice is as follows:
-
-Feel free to contribute, but please take these into account:
-- Follow the [Mindustry style guidelines](https://github.com/Anuken/Mindustry/blob/master/CONTRIBUTING.md#style-guidelines). This includes code formatting.
-- Make sure your proposed requests work both in Desktop and Android.
