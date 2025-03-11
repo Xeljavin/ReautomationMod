@@ -40,7 +40,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 <br>
 <br>
 
-<!-- Please insert Reautomation images here -->
+![placeholder screenshot](https://github.com/Xeljavin/ReautomationMod/blob/main/placeholder_image.png)
 
 <br>
 <br>
